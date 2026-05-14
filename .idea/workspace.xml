@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06364053-60e2-4440-b279-ffb5e526fa52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ai-support-dashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/ai_classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/ticket_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/support_tickets.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 1.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 2.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 3.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 3.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/part 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visuals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visuals/charts.py" afterDir="false" />
-    </list>
+    <list default="true" id="06364053-60e2-4440-b279-ffb5e526fa52" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
