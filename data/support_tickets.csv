@@ -1,0 +1,31 @@
+ticket_id,message,date,customer_name,channel
+TKT-001,"My transfer has been pending for 3 days this is unacceptable",2024-01-15,Jane Mokoena,email
+TKT-002,"How do I verify my account the app keeps asking for my ID",2024-01-15,Peter Dlamini,chat
+TKT-003,"I sent money to the wrong number please help me urgently",2024-01-16,Sarah Nkosi,whatsapp
+TKT-004,"App crashes every time I try to log in",2024-01-16,David Sithole,email
+TKT-005,"Where is my refund it has been 2 weeks now",2024-01-17,Mary Zulu,chat
+TKT-006,"Cannot access my account after password reset",2024-01-17,John Banda,email
+TKT-007,"Transfer was successful thank you so much great service",2024-01-18,Rose Phiri,chat
+TKT-008,"Verification keeps failing I have submitted my ID 3 times already",2024-01-18,Mike Okonkwo,whatsapp
+TKT-009,"My payment is stuck and I need it resolved immediately",2024-01-19,Fatima Hassan,email
+TKT-010,"How long does a transfer to Zimbabwe take",2024-01-19,Samuel Mwangi,chat
+TKT-011,"I am furious my money has disappeared from my account",2024-01-20,Grace Mensah,email
+TKT-012,"Please help me reset my PIN I am locked out",2024-01-20,James Osei,whatsapp
+TKT-013,"Refund still not received after 10 days this is a scam",2024-01-21,Amina Diallo,email
+TKT-014,"App update broke everything nothing works anymore",2024-01-21,Kwame Asante,chat
+TKT-015,"Everything resolved perfectly thank you for the quick help",2024-01-22,Zanele Dube,email
+TKT-016,"Why is my account verification taking so long",2024-01-22,Tendai Moyo,whatsapp
+TKT-017,"Transfer failed but money left my account please investigate",2024-01-23,Chidi Okafor,email
+TKT-018,"I need help with wrong number transfer it was urgent",2024-01-23,Aisha Kamara,chat
+TKT-019,"Cannot log in says my account is suspended",2024-01-24,Sipho Nkosi,email
+TKT-020,"When will my refund be processed it has been a week",2024-01-24,Lola Adeyemi,whatsapp
+
+
+
+
+
+
+
+
+
+
